@@ -1,0 +1,3 @@
+%{
+  "smart_global": {:git, "https://github.com/ks/smart_global.git", "31cd373a9c99e6992522ab394c982968c1abf694", []},
+}
